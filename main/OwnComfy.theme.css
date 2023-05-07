@@ -1,0 +1,98 @@
+/**
+* @name OwnComfy
+* @author RAINBOW#2050
+* @description It's more comfy this way.
+* @version 1
+* @website https://dafuq.22web.org/
+*/
+
+@import "https://raw.githubusercontent.com/RAINTHEBOW/OwnComfy/main/main/main.css";
+
+@import "https://raw.githubusercontent.com/RAINTHEBOW/OwnComfy/main/main/no-scrollbar.css";
+
+:root {
+  --disable-animations: 2s channel-unread infinite;
+
+  --user-buttons-spacing: 8px;
+
+  --user-buttons-color: #f00;
+
+  --avatar-radius: 5px;
+
+  --status-radius: 3px;
+
+  --server-radius: 8px;
+
+  --colored-emoji: grayscale(0%);
+
+  --mention-color: #f00;
+
+  --unread-color: #f00;
+
+  --mention-color-bar: #f00;
+
+  --mention-color-background: #f00;
+
+  --mention-color-hover: #f00;
+
+  --chat-buttons: #f00;
+
+  --spotify-color: #f00;
+
+  --online: #f00;
+
+  --iddle: #f00;
+
+  --dnd: #f00;
+
+  --offline: #f00;
+
+  --streaming: #f00;
+
+  --playing: #f00;
+
+  --listening: #f00;
+
+  --role-circle: 5px;
+
+  --discord-logo: none;
+}
+
+.theme-dark {
+  --background-primary: #f00;
+  --background-secondary: #f00;
+  --background-secondary-alt: #f00;
+  --background-tertiary: #f00;
+  --background-accent: #f00;
+
+  --modal-background: #f00;
+  --background-mobile-primary: #f00;
+  --background-mobile-secondary: #f00;
+  --channeltextarea-background: #f00;
+  --background-message-hover: transparent;
+  --background-modifier-hover: #f00;
+  --background-modifier-active: #f00;
+  --background-modifier-selected: #f00;
+  --deprecated-card-bg: #f00;
+  --background-floating: #f00;
+  --deprecated-quickswitcher-input-background: #f00;
+  --elevation-low: none;
+  --scrollbar-auto-thumb: #f00;
+  --scrollbar-auto-track: #f00;
+  --scrollbar-thin-thumb: #f00;
+  --activity-card-background: #f00;
+  --input-background: #f00;
+}
+
+.theme-light {
+  --background-primary: #f00;
+  --background-secondary: #f00;
+  --background-secondary-alt: #f00;
+  --background-tertiary: #f00;
+  --background-accent: #f00;
+  --background-modifier-hover: #f00;
+  --background-modifier-active: #f00;
+  --header-primary: #f00;
+  --header-secondary: #f00;
+  --text-normal: #f00;
+}
