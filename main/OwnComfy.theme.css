@@ -86,13 +86,13 @@
 
 .theme-light {
   --background-primary: #3000ff;
-  --background-secondary: #f00;
-  --background-secondary-alt: #f00;
-  --background-tertiary: #f00;
-  --background-accent: #f00;
-  --background-modifier-hover: #f00;
-  --background-modifier-active: #f00;
-  --header-primary: #f00;
-  --header-secondary: #f00;
-  --text-normal: #f00;
+  --background-secondary: #3000ff;
+  --background-secondary-alt: #3000ff;
+  --background-tertiary: #3000ff;
+  --background-accent: #3000ff;
+  --background-modifier-hover: #3000ff;
+  --background-modifier-active: #3000ff;
+  --header-primary: #3000ff;
+  --header-secondary: #3000ff;
+  --text-normal: #3000ff;
 }
