@@ -15,7 +15,7 @@
 
   --user-buttons-spacing: 8px;
 
-  --user-buttons-color: #000000;
+  --user-buttons-color: #000;
 
   --avatar-radius: 5px;
 
@@ -25,33 +25,33 @@
 
   --colored-emoji: grayscale(0%);
 
-  --mention-color: #f00;
+  --mention-color: #000;
 
-  --unread-color: #f00;
+  --unread-color: #000;
 
-  --mention-color-bar: #f00;
+  --mention-color-bar: #000;
 
-  --mention-color-background: #f00;
+  --mention-color-background: #000;
 
-  --mention-color-hover: #f00;
+  --mention-color-hover: #000;
 
-  --chat-buttons: #f00;
+  --chat-buttons: #000;
 
-  --spotify-color: #f00;
+  --spotify-color: #000;
 
-  --online: #f00;
+  --online: #000;
 
-  --idle: #f00;
+  --idle: #000;
 
-  --dnd: #f00;
+  --dnd: #000;
 
-  --offline: #f00;
+  --offline: #000;
 
-  --streaming: #f00;
+  --streaming: #000;
 
-  --playing: #f00;
+  --playing: #000;
 
-  --listening: #f00;
+  --listening: #000;
 
   --role-circle: 5px;
 
@@ -59,40 +59,40 @@
 }
 
 .theme-dark {
-  --background-primary: #3000ff;
-  --background-secondary: #3000ff;
-  --background-secondary-alt: #3000ff;
-  --background-tertiary: #3000ff;
-  --background-accent: #3000ff;
+  --background-primary: #000;
+  --background-secondary: #000;
+  --background-secondary-alt: #000;
+  --background-tertiary: #000;
+  --background-accent: #000;
 
-  --modal-background: #3000ff;
-  --background-mobile-primary: #3000ff;
-  --background-mobile-secondary: #3000ff;
-  --channeltextarea-background: #3000ff;
+  --modal-background: #000;
+  --background-mobile-primary: #000;
+  --background-mobile-secondary: #000;
+  --channeltextarea-background: #000;
   --background-message-hover: transparent;
-  --background-modifier-hover: #3000ff;
-  --background-modifier-active: #3000ff;
-  --background-modifier-selected: #3000ff;
-  --deprecated-card-bg: #3000ff;
-  --background-floating: #3000ff;
-  --deprecated-quickswitcher-input-background: #3000ff;
+  --background-modifier-hover: #000;
+  --background-modifier-active: #000;
+  --background-modifier-selected: #000;
+  --deprecated-card-bg: #000;
+  --background-floating: #000;
+  --deprecated-quickswitcher-input-background: #000;
   --elevation-low: none;
-  --scrollbar-auto-thumb: #3000ff;
-  --scrollbar-auto-track: #3000ff;
-  --scrollbar-thin-thumb: #3000ff;
-  --activity-card-background: #3000ff;
-  --input-background: #3000ff;
+  --scrollbar-auto-thumb: #000;
+  --scrollbar-auto-track: #000;
+  --scrollbar-thin-thumb: #000;
+  --activity-card-background: #000;
+  --input-background: #000;
 }
 
 .theme-light {
-  --background-primary: #3000ff;
-  --background-secondary: #3000ff;
-  --background-secondary-alt: #3000ff;
-  --background-tertiary: #3000ff;
-  --background-accent: #3000ff;
-  --background-modifier-hover: #3000ff;
-  --background-modifier-active: #3000ff;
-  --header-primary: #3000ff;
-  --header-secondary: #3000ff;
+  --background-primary: #000;
+  --background-secondary: #000;
+  --background-secondary-alt: #000;
+  --background-tertiary: #000;
+  --background-accent: #000;
+  --background-modifier-hover: #000;
+  --background-modifier-active: #000;
+  --header-primary: #000;
+  --header-secondary: #000;
   --text-normal: #000;
 }
