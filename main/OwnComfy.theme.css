@@ -60,28 +60,28 @@
 
 .theme-dark {
   --background-primary: #3000ff;
-  --background-secondary: #f00;
-  --background-secondary-alt: #f00;
-  --background-tertiary: #f00;
-  --background-accent: #f00;
+  --background-secondary: #3000ff;
+  --background-secondary-alt: #3000ff;
+  --background-tertiary: #3000ff;
+  --background-accent: #3000ff;
 
-  --modal-background: #f00;
-  --background-mobile-primary: #f00;
-  --background-mobile-secondary: #f00;
-  --channeltextarea-background: #f00;
+  --modal-background: #3000ff;
+  --background-mobile-primary: #3000ff;
+  --background-mobile-secondary: #3000ff;
+  --channeltextarea-background: #3000ff;
   --background-message-hover: transparent;
-  --background-modifier-hover: #f00;
-  --background-modifier-active: #f00;
-  --background-modifier-selected: #f00;
-  --deprecated-card-bg: #f00;
-  --background-floating: #f00;
-  --deprecated-quickswitcher-input-background: #f00;
+  --background-modifier-hover: #3000ff;
+  --background-modifier-active: #3000ff;
+  --background-modifier-selected: #3000ff;
+  --deprecated-card-bg: #3000ff;
+  --background-floating: #3000ff;
+  --deprecated-quickswitcher-input-background: #3000ff;
   --elevation-low: none;
-  --scrollbar-auto-thumb: #f00;
-  --scrollbar-auto-track: #f00;
-  --scrollbar-thin-thumb: #f00;
-  --activity-card-background: #f00;
-  --input-background: #f00;
+  --scrollbar-auto-thumb: #3000ff;
+  --scrollbar-auto-track: #3000ff;
+  --scrollbar-thin-thumb: #3000ff;
+  --activity-card-background: #3000ff;
+  --input-background: #3000ff;
 }
 
 .theme-light {
